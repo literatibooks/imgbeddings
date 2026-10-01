@@ -53,3 +53,8 @@ packages = ["imgbeddings"]
 dev = [
     "ipython>=7.34.0",
 ]
+
+[[tool.uv.index]]
+name = "literati"
+url = "https://sonatype-nexus.literati.dev/repository/pypi-all/simple"
+default = true

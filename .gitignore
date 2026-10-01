@@ -6,3 +6,5 @@ dist
 output.png
 *.pyc
 *.tar.gz
+venv
+.python-version
